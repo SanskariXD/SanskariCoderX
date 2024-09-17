@@ -116,31 +116,7 @@
     </details>
   </div>
     <br />
-  </div>
-    <div align="center">
-    <a href="https://sanskaricoderx.github.io/">
-      <img
-        src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"
-      />
-    </a>
-    <a href="https://dev.to/sanskaricoderx">
-      <img
-        src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white"
-      />
-    </a>
-    <a href="https://stackoverflow.com/users/23220449/soham-maity">
-      <img
-        src="https://img.shields.io/badge/STACKOVERFLOW-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"
-      />
-    </a>
-    <a href="https://www.linkedin.com/in/sanskari-shetty">
-      <img
-        src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      />
-    </a>
-  </div>
 
-  
   <h2 style="text-align: left; color: #ffffff">GitHub Stats</h2>
 
   <div style="margin: 20px 0">
@@ -201,19 +177,14 @@
       </tr>
     </table>
     <br />
-  </div>
+ </div>
     <div align="center">
-    <a href="https://bento.me/spreadsheets">
-      <img
-        src="https://komarev.com/ghpvc/?username=spreadsheets600&style=for-the-badge"
-      />
-    </a>
-    <a href="https://bento.me/spreadsheets">
+    <a href="https://sanskaricoderx.github.io/">
       <img
         src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"
       />
     </a>
-    <a href="https://dev.to/sspreadsheets600">
+    <a href="https://dev.to/sanskaricoderx">
       <img
         src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white"
       />
@@ -223,7 +194,7 @@
         src="https://img.shields.io/badge/STACKOVERFLOW-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"
       />
     </a>
-    <a href="https://www.linkedin.com/in/soham-maity-523329305">
+    <a href="https://www.linkedin.com/in/sanskari-shetty">
       <img
         src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       />
