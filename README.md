@@ -170,7 +170,7 @@
             <img
               width="100%"
               style="border-radius: 5px"
-              src="https://github-readme-activity-graph.vercel.app/graph?username=SpreadSheets600&theme=github-compact&hide_border=true"
+              src="https://github-readme-activity-graph.vercel.app/graph?username=SanskariCoderX&theme=github-compact&hide_border=true"
             />
           </a>
         </td>
