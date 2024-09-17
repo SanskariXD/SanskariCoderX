@@ -65,12 +65,97 @@
         margin-right: 10px;
       "
     >
-      
+      <summary style="font-size: 1.5rem; cursor: pointer; color: #ffffff">
+        <h2><samp>Status</samp></h2>
+      </summary>
+      <div style="margin-top: 10px">
+        <table style="width: 100%; margin-bottom: 20px; border: 1px solid #555">
+          <tr>
+            <td style="text-align: left; padding: 10px">
+              <h1 style="font-size: 1.5rem; color: #ffffff">
+                <samp>Discord</samp>
+              </h1>
+              <a href="">
+                <img
+                  src="https://discord-readme-badge.vercel.app/api?id=698833665219887164"
+                />
+              </a>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </details>
+<div>
+    <details
+      style="
+        border: 1px solid #444;
+        border-radius: 5px;
+        padding: 10px;
+        background-color: #2b2b2b;
+        flex: 1;
+      "
+    >
+      <summary style="font-size: 1.5rem; cursor: pointer; color: #ffffff">
+        <h2><samp>Trophies</samp></h2>
+      </summary>
+      <div style="margin-top: 10px">
+        <table style="width: 100%; border: 1px solid #555">
+          <tr>
+            <td style="text-align: left; padding: 10px">
+              <a href="#--------">
+                <img
+                  width="100%"
+                  style="border-radius: 5px"
+                  src="https://github-profile-trophy.vercel.app/?username=SpreadSheets600&theme=onestar&column=4&margin-w=15&margin-h=15&title=-Reviews"
+                />
+              </a>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </details>
+  </div>
+
+  <h2 style="text-align: left; color: #ffffff">GitHub Stats</h2>
+
+  <div style="margin: 20px 0">
+    <table style="width: 100%; margin-bottom: 20px; border: 1px solid #555">
+      <tr>
+        <td style="text-align: center; padding: 10px">
+          <a href="https://git.io/streak-stats">
+            <img
+              src="https://github-readme-streak-stats.herokuapp.com?user=spreadsheets600&theme=transparent&hide_border=true&border_radius=&card_width=1000&ring=39D353&fire=39D353&currStreakNum=39D353&sideNums=39D353&currStreakLabel=AFAFAF&sideLabels=AFAFAF&dates=39D353"
+              alt="GitHub Streak"
+              style="border-radius: 5px"
+            />
+          </a>
+        </td>
+      </tr>
+    </table>
+    <table style="width: 100%; margin-bottom: 20px">
+      <tr>
+        <td style="text-align: center; padding: 10px; border: 1px solid #555">
+          <a href="#--------">
+            <img
+              height="215px"
+              alt="GitHub Stats"
+              src="https://github-readme-stats.vercel.app/api?username=spreadsheets600&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=transparent&title_color=39D353&text_color=39D353&icon_color=AFAFAF"
+            />
+          </a>
+        </td>
+        <td
+          style="
+            text-align: center;
+            padding: 10px;
+            border: 1px solid #555;
+            border-spacing: 100px;
+          "
+        >
           <a href="#--------">
             <img
               height="215px"
               alt="Top Language"
-              src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskaricoderx&layout=compact&line_height=21&hide_border=true&theme=transparent&title_color=39D353&text_color=AFAFAF&icon_color=39D353"
+              src="https://github-readme-stats.vercel.app/api/top-langs/?username=spreadsheets600&layout=compact&line_height=21&hide_border=true&theme=transparent&title_color=39D353&text_color=AFAFAF&icon_color=39D353"
               style="border-radius: 5px"
             />
           </a>
@@ -84,7 +169,7 @@
             <img
               width="100%"
               style="border-radius: 5px"
-              src="https://github-readme-activity-graph.vercel.app/graph?username=sanskaricoderx&theme=github-compact&hide_border=true"
+              src="https://github-readme-activity-graph.vercel.app/graph?username=SpreadSheets600&theme=github-compact&hide_border=true"
             />
           </a>
         </td>
