@@ -190,11 +190,6 @@
         src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white"
       />
     </a>
-    <a href="https://stackoverflow.com/users/23220449/soham-maity">
-      <img
-        src="https://img.shields.io/badge/STACKOVERFLOW-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"
-      />
-    </a>
     <a href="https://www.linkedin.com/in/sanskari-shetty">
       <img
         src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
