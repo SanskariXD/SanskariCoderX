@@ -106,7 +106,7 @@
                 <img
                   width="100%"
                   style="border-radius: 5px"
-                  src="https://github-profile-trophy.vercel.app/?username=SpreadSheets600&theme=onestar&column=4&margin-w=15&margin-h=15&title=-Reviews"
+                  src="https://github-profile-trophy.vercel.app/?username=SanskariCoderX&theme=onestar&column=4&margin-w=15&margin-h=15&title=-Reviews"
                 />
               </a>
             </td>
