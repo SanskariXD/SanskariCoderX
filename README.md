@@ -210,7 +210,7 @@
     <div style="margin-bottom: 20px">
       <a
         ><img
-          src="https://skillicons.dev/icons?i=python,html,css,javascript,bash&theme=dark"
+          src="https://skillicons.dev/icons?i=python,html,css,javascript,cpp&theme=dark"
           style="margin-right: 10px; padding: 10px"
       /></a>
     </div>
@@ -220,7 +220,7 @@
     <div style="margin-bottom: 20px">
       <a
         ><img
-          src="https://skillicons.dev/icons?i=django,flask,tensorflow,nodejs&theme=dark"
+          src="https://skillicons.dev/icons?i=nodejs&theme=dark"
           style="margin-right: 10px; padding: 10px"
       /></a>
     </div>
@@ -230,7 +230,7 @@
     <div style="margin-bottom: 20px">
       <a
         ><img
-          src="https://skillicons.dev/icons?i=illustrator,xd,figma&theme=dark"
+          src="https://skillicons.dev/icons?i=illustrator,pr,ps,ae,figma&theme=dark"
           style="margin-right: 10px; padding: 10px"
       /></a>
     </div>
@@ -239,7 +239,7 @@
     <div style="margin-bottom: 20px">
       <a
         ><img
-          src="https://skillicons.dev/icons?i=mongo,mysql&theme=dark"
+          src="https://skillicons.dev/icons?i=mysql&theme=dark"
           style="margin-right: 10px; padding: 10px"
       /></a>
     </div>
@@ -248,12 +248,12 @@
     <div style="margin-bottom: 20px">
       <a
         ><img
-          src="https://skillicons.dev/icons?i=vscode,sublime,replit,notion,github&theme=dark"
+          src="https://skillicons.dev/icons?i=vscode,linux,kali,github&theme=dark"
           style="margin-right: 10px; padding: 10px" /></a
       ><br />
       <a
         ><img
-          src="https://skillicons.dev/icons?i=discord,bots&theme=dark"
+          src="https://skillicons.dev/icons?i=discord&theme=dark"
           style="margin-right: 10px; padding: 10px"
       /></a>
     </div>
