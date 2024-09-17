@@ -36,11 +36,12 @@
         >
           Namaste
           <br />
-          I'm <span style="color: #ffffff">Anjan</span>, I'm not a robot.
+          I'm <span style="color: #ffffff">Anjan Shetty
+          </span>, I'm not a robot.
           <br />
         Juggling my outdated college syllabus while picking up cool new skills on the side...
           <br />
-          ~ ME
+          ~ :)
         </b>
       </samp>
     </h3>
