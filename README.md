@@ -50,17 +50,6 @@
     <samp style="font-size: 1.5rem; color: #ffffff">」</samp>
   </h3>
 
-  <div align = "center" style="margin: 20px 0; align-items: center; text-align: center">
-    <a href="https://blog.spreadsheets600.me">
-      <img
-        src="https://img.shields.io/badge/Visit%20My%20Blog-black?style=for-the-badge&logo=blogger&logoColor=white"
-        height="30"
-        padding="10"
-        style="border-radius: 5px"
-      />
-    </a>
-  </div>
-
   <br />
 
   <div
@@ -76,104 +65,7 @@
         margin-right: 10px;
       "
     >
-      <summary style="font-size: 1.5rem; cursor: pointer; color: #ffffff">
-        <h2><samp>Status</samp></h2>
-      </summary>
-      <div style="margin-top: 10px">
-        <table style="width: 100%; margin-bottom: 20px; border: 1px solid #555">
-          <tr>
-            <td style="text-align: left; padding: 10px">
-              <h1 style="font-size: 1.5rem; color: #ffffff">
-                <samp>Discord</samp>
-              </h1>
-              <a href="">
-                <img
-                  src="https://discord-readme-badge.vercel.app/api?id=727012870683885578"
-                />
-              </a>
-            </td>
-          </tr>
-          <tr>
-            <td style="text-align: left; padding: 10px">
-              <h1 style="font-size: 1.5rem; color: #ffffff">
-                <samp>Spotify</samp>
-              </h1>
-              <a href="https://open.spotify.com/user/x4o0yd3uqpjbzgo1atn61ik6l">
-                <img
-                  src="https://spotify-github-profile.kittinanx.com/api/view?uid=x4o0yd3uqpjbzgo1atn61ik6l&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true"
-                />
-              </a>
-            </td>
-          </tr>
-        </table>
-      </div>
-    </details>
-<div>
-    <details
-      style="
-        border: 1px solid #444;
-        border-radius: 5px;
-        padding: 10px;
-        background-color: #2b2b2b;
-        flex: 1;
-      "
-    >
-      <summary style="font-size: 1.5rem; cursor: pointer; color: #ffffff">
-        <h2><samp>Trophies</samp></h2>
-      </summary>
-      <div style="margin-top: 10px">
-        <table style="width: 100%; border: 1px solid #555">
-          <tr>
-            <td style="text-align: left; padding: 10px">
-              <a href="#--------">
-                <img
-                  width="100%"
-                  style="border-radius: 5px"
-                  src="https://github-profile-trophy.vercel.app/?username=SpreadSheets600&theme=onestar&column=4&margin-w=15&margin-h=15&title=-Reviews"
-                />
-              </a>
-            </td>
-          </tr>
-        </table>
-      </div>
-    </details>
-  </div>
-
-  <h2 style="text-align: left; color: #ffffff">GitHub Stats</h2>
-
-  <div style="margin: 20px 0">
-    <table style="width: 100%; margin-bottom: 20px; border: 1px solid #555">
-      <tr>
-        <td style="text-align: center; padding: 10px">
-          <a href="https://git.io/streak-stats">
-            <img
-              src="https://github-readme-streak-stats.herokuapp.com?user=spreadsheets600&theme=transparent&hide_border=true&border_radius=&card_width=1000&ring=39D353&fire=39D353&currStreakNum=39D353&sideNums=39D353&currStreakLabel=AFAFAF&sideLabels=AFAFAF&dates=39D353"
-              alt="GitHub Streak"
-              style="border-radius: 5px"
-            />
-          </a>
-        </td>
-      </tr>
-    </table>
-    <table style="width: 100%; margin-bottom: 20px">
-      <tr>
-        <td style="text-align: center; padding: 10px; border: 1px solid #555">
-          <a href="#--------">
-            <img
-              height="215px"
-              alt="GitHub Stats"
-              src="https://github-readme-stats.vercel.app/api?username=spreadsheets600&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=transparent&title_color=39D353&text_color=39D353&icon_color=AFAFAF"
-            />
-          </a>
-        </td>
-        <td
-          style="
-            text-align: center;
-            padding: 10px;
-            border: 1px solid #555;
-            border-spacing: 100px;
-          "
-        >
+      
           <a href="#--------">
             <img
               height="215px"
@@ -201,17 +93,12 @@
     <br />
   </div>
     <div align="center">
-    <a href="https://bento.me/spreadsheets">
-      <img
-        src="https://komarev.com/ghpvc/?username=spreadsheets600&style=for-the-badge"
-      />
-    </a>
-    <a href="https://bento.me/spreadsheets">
+    <a href="https://sanskaricoderx.github.io/">
       <img
         src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"
       />
     </a>
-    <a href="https://dev.to/sspreadsheets600">
+    <a href="https://dev.to/sanskaricoderx">
       <img
         src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white"
       />
@@ -221,7 +108,7 @@
         src="https://img.shields.io/badge/STACKOVERFLOW-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"
       />
     </a>
-    <a href="https://www.linkedin.com/in/soham-maity-523329305">
+    <a href="https://www.linkedin.com/in/sanskari-shetty">
       <img
         src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       />
