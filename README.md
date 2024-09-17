@@ -70,7 +70,7 @@
             <img
               height="215px"
               alt="Top Language"
-              src="https://github-readme-stats.vercel.app/api/top-langs/?username=spreadsheets600&layout=compact&line_height=21&hide_border=true&theme=transparent&title_color=39D353&text_color=AFAFAF&icon_color=39D353"
+              src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskaricoderx&layout=compact&line_height=21&hide_border=true&theme=transparent&title_color=39D353&text_color=AFAFAF&icon_color=39D353"
               style="border-radius: 5px"
             />
           </a>
@@ -84,7 +84,7 @@
             <img
               width="100%"
               style="border-radius: 5px"
-              src="https://github-readme-activity-graph.vercel.app/graph?username=SpreadSheets600&theme=github-compact&hide_border=true"
+              src="https://github-readme-activity-graph.vercel.app/graph?username=sanskaricoderx&theme=github-compact&hide_border=true"
             />
           </a>
         </td>
@@ -109,6 +109,96 @@
       />
     </a>
     <a href="https://www.linkedin.com/in/sanskari-shetty">
+      <img
+        src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      />
+    </a>
+  </div>
+
+  
+  <h2 style="text-align: left; color: #ffffff">GitHub Stats</h2>
+
+  <div style="margin: 20px 0">
+    <table style="width: 100%; margin-bottom: 20px; border: 1px solid #555">
+      <tr>
+        <td style="text-align: center; padding: 10px">
+          <a href="https://git.io/streak-stats">
+            <img
+              src="https://github-readme-streak-stats.herokuapp.com?user=sanskaricoderx&theme=transparent&hide_border=true&border_radius=&card_width=1000&ring=39D353&fire=39D353&currStreakNum=39D353&sideNums=39D353&currStreakLabel=AFAFAF&sideLabels=AFAFAF&dates=39D353"
+              alt="GitHub Streak"
+              style="border-radius: 5px"
+            />
+          </a>
+        </td>
+      </tr>
+    </table>
+    <table style="width: 100%; margin-bottom: 20px">
+      <tr>
+        <td style="text-align: center; padding: 10px; border: 1px solid #555">
+          <a href="#--------">
+            <img
+              height="215px"
+              alt="GitHub Stats"
+              src="https://github-readme-stats.vercel.app/api?username=sanskaricoderx&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=transparent&title_color=39D353&text_color=39D353&icon_color=AFAFAF"
+            />
+          </a>
+        </td>
+        <td
+          style="
+            text-align: center;
+            padding: 10px;
+            border: 1px solid #555;
+            border-spacing: 100px;
+          "
+        >
+          <a href="#--------">
+            <img
+              height="215px"
+              alt="Top Language"
+              src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskaricoderx&layout=compact&line_height=21&hide_border=true&theme=transparent&title_color=39D353&text_color=AFAFAF&icon_color=39D353"
+              style="border-radius: 5px"
+            />
+          </a>
+        </td>
+      </tr>
+    </table>
+    <table style="width: 100%; margin-bottom: 20px; border: 1px solid #555">
+      <tr>
+        <td style="text-align: center; padding: 10px">
+          <a href="#--------">
+            <img
+              width="100%"
+              style="border-radius: 5px"
+              src="https://github-readme-activity-graph.vercel.app/graph?username=SpreadSheets600&theme=github-compact&hide_border=true"
+            />
+          </a>
+        </td>
+      </tr>
+    </table>
+    <br />
+  </div>
+    <div align="center">
+    <a href="https://bento.me/spreadsheets">
+      <img
+        src="https://komarev.com/ghpvc/?username=spreadsheets600&style=for-the-badge"
+      />
+    </a>
+    <a href="https://bento.me/spreadsheets">
+      <img
+        src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"
+      />
+    </a>
+    <a href="https://dev.to/sspreadsheets600">
+      <img
+        src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white"
+      />
+    </a>
+    <a href="https://stackoverflow.com/users/23220449/soham-maity">
+      <img
+        src="https://img.shields.io/badge/STACKOVERFLOW-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"
+      />
+    </a>
+    <a href="https://www.linkedin.com/in/soham-maity-523329305">
       <img
         src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       />
