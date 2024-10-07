@@ -36,8 +36,8 @@
         >
           Namaste, I'm Anjan Shetty!
           <br />
-          aka <span style="color: #ffffff">SanskariCoderX
-          </span>, I'm not a robot.
+          aka <span style="color: #ffffff; font-style: italic;">SanskariCoderX
+          </span>,
           <br />
        I bring a touch of sanskaar to everything I do....
           <br />
