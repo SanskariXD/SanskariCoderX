@@ -34,12 +34,12 @@
             align-content: center;
           "
         >
-          Namaste
+          Namaste, I'm Anjan Shetty!
           <br />
-          I'm <span style="color: #ffffff">Anjan Shetty
+          aka <span style="color: #ffffff">SanskariCoderX
           </span>, I'm not a robot.
           <br />
-        Juggling my outdated college syllabus while picking up cool new skills on the side...
+       I bring a touch of sanskaar to everything I do....
           <br />
           ~ :)
         </b>
