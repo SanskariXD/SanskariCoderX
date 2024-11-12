@@ -211,7 +211,7 @@
     </div>
     <div>
     <div></div>
-    <h3 style="color: #ffffff; padding: 10px"><samp>Technologies</samp></h3>
+    <h3 style="color: #ffffff; padding: 10px"><samp>Backend</samp></h3>
     <div style="margin-bottom: 20px">
       <a
         ><img
