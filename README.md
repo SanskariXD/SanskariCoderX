@@ -230,14 +230,6 @@
       /></a>
     </div>
 <div></div>
-    <h3 style="color: #ffffff; padding: 10px"><samp>Database</samp></h3>
-    <div style="margin-bottom: 20px">
-      <a
-        ><img
-          src="https://skillicons.dev/icons?i=mysql&theme=dark"
-          style="margin-right: 10px; padding: 10px"
-      /></a>
-    </div>
 <div>
     <h3 style="color: #ffffff; padding: 10px"><samp>Tools</samp></h3>
     <div style="margin-bottom: 20px">
