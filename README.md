@@ -140,17 +140,7 @@
     <div style="margin-bottom: 20px">
       <a
         ><img
-          src="https://skillicons.dev/icons?i=python,html,css,javascript,cpp&theme=dark"
-          style="margin-right: 10px; padding: 10px"
-      /></a>
-    </div>
-    <div>
-    <div></div>
-    <h3 style="color: #ffffff; padding: 10px"><samp>Backend</samp></h3>
-    <div style="margin-bottom: 20px">
-      <a
-        ><img
-          src="https://skillicons.dev/icons?i=nodejs&theme=dark"
+          src="https://skillicons.dev/icons?i=python,html,css,javascript,c,cpp&theme=dark"
           style="margin-right: 10px; padding: 10px"
       /></a>
     </div>
