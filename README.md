@@ -91,7 +91,7 @@
             <img
               height="215px"
               alt="Top Language"
-              src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskaricoderx&layout=compact&line_height=21&hide_border=true&theme=transparent&title_color=39D353&text_color=AFAFAF&icon_color=39D353"
+              src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskarixd&layout=compact&line_height=21&hide_border=true&theme=transparent&title_color=39D353&text_color=AFAFAF&icon_color=39D353"
               style="border-radius: 5px"
             />
           </a>
