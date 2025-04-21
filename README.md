@@ -36,7 +36,7 @@
         >
           Namaste, I'm Anjan Shetty!
           <br />
-          aka <span style="color: #ffffff; font-style: italic;">SanskariCoderX</span>,
+          aka <span style="color: #ffffff; font-style: italic;">SanskariXD</span>,
           <br />
        I bring a touch of sanskaar to everything I do....
           <br />
@@ -60,7 +60,7 @@
         <td style="text-align: center; padding: 10px">
           <a href="https://git.io/streak-stats">
             <img
-              src="https://github-readme-streak-stats.herokuapp.com?user=sanskaricoderx&theme=transparent&hide_border=true&border_radius=&card_width=1000&ring=39D353&fire=39D353&currStreakNum=39D353&sideNums=39D353&currStreakLabel=AFAFAF&sideLabels=AFAFAF&dates=39D353"
+              src="https://github-readme-streak-stats.herokuapp.com?user=sanskarixd&theme=transparent&hide_border=true&border_radius=&card_width=1000&ring=39D353&fire=39D353&currStreakNum=39D353&sideNums=39D353&currStreakLabel=AFAFAF&sideLabels=AFAFAF&dates=39D353"
               alt="GitHub Streak"
               style="border-radius: 5px"
             />
@@ -75,7 +75,7 @@
             <img
               height="215px"
               alt="GitHub Stats"
-              src="https://github-readme-stats.vercel.app/api?username=sanskaricoderx&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=transparent&title_color=39D353&text_color=39D353&icon_color=AFAFAF"
+              src="https://github-readme-stats.vercel.app/api?username=sanskarixd&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=transparent&title_color=39D353&text_color=39D353&icon_color=AFAFAF"
             />
           </a>
         </td>
@@ -105,7 +105,7 @@
             <img
               width="100%"
               style="border-radius: 5px"
-              src="https://github-readme-activity-graph.vercel.app/graph?username=SanskariCoderX&theme=github-compact&hide_border=true"
+              src="https://github-readme-activity-graph.vercel.app/graph?username=SanskariXD&theme=github-compact&hide_border=true"
             />
           </a>
         </td>
